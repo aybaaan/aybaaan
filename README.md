@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <h1 align="center">Hi 👋, I'm aybaaan</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
